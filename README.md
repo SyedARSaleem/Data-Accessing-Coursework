@@ -1,0 +1,1 @@
+Designed a hash function using Python to optimize the storage and retrieval of extensive data (Retail stores in the UK) by utilizing key-based indexing. In the next phase, utilized Quick Sort for efficient sorting of the same data and implemented a search feature for swift retrieval and display of comprehensive information, prioritizing program efficiency.
